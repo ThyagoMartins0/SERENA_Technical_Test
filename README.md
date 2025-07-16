@@ -26,6 +26,9 @@ It must be possible to query each customer's daily electricity consumption with 
 If there are updates to the CCEE data, the system must be able to automatically update the stored daily consumption.
 
  -------------------------------------------------------
+<img width="695" height="696" alt="image" src="https://github.com/user-attachments/assets/a2fa3d35-4f52-4794-a2ae-da25b25d804b" />
+
+
 
 INFORMAÇÕES IMPORTANTES 
 
